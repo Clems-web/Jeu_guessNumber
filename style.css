@@ -46,6 +46,7 @@ body {
     flex-direction: column;
     justify-content: space-evenly;
     text-align: left;
+    border-color: blanchedalmond;
 }
 
 #result p {
